@@ -1,9 +1,10 @@
-## Hi there 👋
+## Hi there, I'm Aiman 👋
 
 <!--
 **ayma23/ayma23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **Computer Engineering student at Florida International University**  
+📅 Graduating **May 2026**
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
