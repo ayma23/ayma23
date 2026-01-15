@@ -1,6 +1,6 @@
 ## Hi there, I'm Aiman 👋
 
-🎓 **Computer Engineering student at Florida International University**  
+🎓 **I'm a Computer Engineering student at Florida International University**  
 📅 Graduating **December 2026**
 
 ## 🛠️ Technical Skills
