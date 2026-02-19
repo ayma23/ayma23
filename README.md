@@ -8,8 +8,6 @@
 **Languages**
 - Python
 - Java
-- JavaScript
-- C/C++
 
 **Web & Software Development**
 - React
@@ -23,7 +21,6 @@
 
 ## 🌱 Currently Learning
 - AWS (Lambda, S3, IAM)
-- CI/CD pipelines
 - Malware analysis (static & dynamic)
 - Wireshark, IDA Free, PE-Bear
 
